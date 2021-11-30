@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BethelDoc/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BethelDoc/static/js/main.8cc483f9.chunk.js",
+    "main.js.map": "/BethelDoc/static/js/main.8cc483f9.chunk.js.map",
+    "runtime-main.js": "/BethelDoc/static/js/runtime-main.9f13d915.js",
+    "runtime-main.js.map": "/BethelDoc/static/js/runtime-main.9f13d915.js.map",
+    "static/js/2.4a4802e5.chunk.js": "/BethelDoc/static/js/2.4a4802e5.chunk.js",
+    "static/js/2.4a4802e5.chunk.js.map": "/BethelDoc/static/js/2.4a4802e5.chunk.js.map",
+    "static/js/3.1178a75f.chunk.js": "/BethelDoc/static/js/3.1178a75f.chunk.js",
+    "static/js/3.1178a75f.chunk.js.map": "/BethelDoc/static/js/3.1178a75f.chunk.js.map",
+    "index.html": "/BethelDoc/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BethelDoc/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4a4802e5.chunk.js.LICENSE.txt": "/BethelDoc/static/js/2.4a4802e5.chunk.js.LICENSE.txt",
+    "static/media/bethel.52efaaf9.png": "/BethelDoc/static/media/bethel.52efaaf9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f13d915.js",
+    "static/js/2.4a4802e5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8cc483f9.chunk.js"
+  ]
+}
